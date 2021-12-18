@@ -5,4 +5,7 @@
     min-height: 70vh;
     padding-top: 3rem;
 
+    &--bg-color {
+        background-color: $color-bg-section;
+    }
 }
