@@ -296,7 +296,7 @@ p {
   resize: none;
   font-family: inherit;
 }
-.form__item:focus, .form__item:hover {
+.form__item:focus {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
